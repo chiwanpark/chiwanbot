@@ -1,3 +1,1 @@
-from .root import app
-
-import chiwanbot.dispatcher
+# -*- coding: utf-8 -*-
