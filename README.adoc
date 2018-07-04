@@ -1,0 +1,11 @@
+= chiwanbot
+
+A line bot implementation running on Google App Engine for personal use.
+
+== Deploy
+
+chiwanbot can be deployed by running the following command in root directory of repository.
+
+```sh
+gcloud app deploy app.yaml
+```
